@@ -27,7 +27,7 @@ Ensure you have **Python 3.8+** installed on your system.
 
    ```bash
    git clone https://github.com/RohiniMaity/Chatbot-Groq.git
-   cd Chatbot-Groqconda 
+   cd Chatbot-Groq
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
